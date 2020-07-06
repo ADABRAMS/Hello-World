@@ -9,3 +9,8 @@ Lately, I've used computers mostly for streaming, playing games, and exploring t
 Just this past November, I built a PC all by myself for the first time.  I feel comfortable with the hardware side of things, but the software side of things has always been like looking at an alien language.  I'm hoping to get to learn about this language and hopefully get to a point where I can understand it!
 
 Well, that should be enough for now.
+
+.
+.
+.
+"You're still here?  It's over.  Go Home.  Go."
